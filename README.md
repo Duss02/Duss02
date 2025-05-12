@@ -6,6 +6,8 @@
 
 - **Lua / macOS**: DotFiles — Personal environment setup for macOS [repo](https://github.com/Duss02/DotFiles)
 
+- **Python Server API**: [Browser Use](https://github.com/browser-use/browser-use) ApiServer — Collect and serve browser activity data via python backend [repo](https://github.com/Duss02/Browser-Use-ApiServer/)
+
 - **LabVIEW**: PWM DC Motor Control — Manage 4 DC motors via PWM on myRIO [repo](https://github.com/Duss02/PWM-DC-Motor-control-LabView)
 
 - **Java & BLE**: Android LDVRobot — Control a robot car with smartphone gyroscope [repo](https://github.com/Duss02/LDVRobot)
@@ -20,5 +22,14 @@
 
 - **JavaScript**: MindRealm — Mind-mapping app contribution [repo](https://github.com/Duss02/MindRealm)
 
+- **JavaScript**: Hackathon25 WebApp — Full-stack web app to evaluate and enhance website accessibility compliance [repo](https://github.com/Duss02/Hackathon25-WebApp)
+
 - **Python**: Advent of Code 2023 — Solutions to daily coding puzzles [repo](https://github.com/Duss02/Days_AdventOfCode2023)
+
+
+
+
+
+
+
 
