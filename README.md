@@ -4,6 +4,8 @@
 
 - **HCI**: Human-Computer Interaction 2024-25 — Group project for HCI course at Polimi [repo](https://github.com/Duss02/Human-Computer-Interaction-2024-25)
 
+- **NLP**: LLM CodeGen Evaluation Pass@1 - Evaluation using LiveCodeBench Lite dataset [repo](https://github.com/Duss02/LiveCodeBench-Lite-Evaluation)
+
 - **Lua / macOS**: DotFiles — Personal environment setup for macOS [repo](https://github.com/Duss02/DotFiles)
 
 - **Python Server API**: [Browser Use](https://github.com/browser-use/browser-use) ApiServer — Collect and serve browser activity data via python backend [repo](https://github.com/Duss02/Browser-Use-ApiServer/)
