@@ -4,6 +4,8 @@
 
 - **NLP**: Training Qwen2.5-3B(with no reasoning) into a model that reason step by step when solving competitive coding problem [repo](https://github.com/Duss02/Gwen2.5-3B-Lets-Reason-Before-Programing)
 
+- **RecSys**: Hybrid Ensemble Recommender System for Recall@20 Optimization from sparse URM [repo](https://github.com/Duss02/RecSys)
+
 - **VHDL**: Digital Logic Design Memory RAM — FSM component managing memory sequences [repo](https://github.com/Duss02/Digital-Logic-Design-Memory-RAM-)
 
 - **[Browser Use](https://github.com/browser-use/browser-use) Api Server**: Use LLMs via API to analyze and control browser and desktop environments [repo](https://github.com/Duss02/Browser-Use-ApiServer/)  
